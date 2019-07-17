@@ -3,7 +3,7 @@ ENGLISH :
 -------
 
 Based on Ulysse's D18 decoder, allows to use servos direcly from a Nano
-----------------------
+
 Quote from the Ulysse's original project (his file readme.md) :
 
   The D18 is a DIY DCC Accessories decoder based on Arduino board.
@@ -15,7 +15,7 @@ Quote from the Ulysse's original project (his file readme.md) :
   (d18_acc_decoder.ino)
 
 end of quote.
-----------------------
+
 Original project is available here : https://github.com/ullysse/d18
 
 My own adaptations are :
@@ -34,7 +34,7 @@ FRANCAIS :
 --------
 
 D'après le décodeur d'accessoires D18 d'Ulysse, cette version permet de gérer des servos directement depuis l'arduino.
-----------------------
+
 Citation, d'après le fichier readme.md d'Ulysse :
 
   Le D18 est un décodeur d'accessoires DCC à faire soi-même avec une carte Arduino
@@ -46,7 +46,7 @@ Citation, d'après le fichier readme.md d'Ulysse :
   (d18_acc_decoder.ino)
 
 Fin de citation.
-----------------------
+
 Le projet original est disponible ici : https://github.com/ullysse/d18
 
 Mes adaptations sont :
