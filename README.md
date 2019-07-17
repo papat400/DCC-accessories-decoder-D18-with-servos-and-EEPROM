@@ -1,4 +1,7 @@
 # DCC-accessories-decoder-D18-with-servos-and-EEPROM
+ENGLISH :
+-------
+
 Based on Ulysse's D18 decoder, allows to use servos direcly from a Nano
 
 Quote from the Ulysse's original project (his file readme.md) :
@@ -29,6 +32,7 @@ Note : I add an Eagle zip file for the D18 PCB design (made for an arduino NANO)
 
 
 FRANCAIS :
+--------
 
 D'après le décodeur d'accessoires D18 d'Ulysse, cette version permet de gérer des servos directement depuis l'arduino.
 
