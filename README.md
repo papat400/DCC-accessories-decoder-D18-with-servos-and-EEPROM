@@ -24,6 +24,10 @@ The eeprom is only adapted when a state changes. This allows at least 100,000 ch
 
 If you use and share this project, please mention Ulysse, the creator of this project.
 
+Note : I add an Eagle zip file for the D18 PCB design (made for an arduino NANO).
+
+
+
 FRANCAIS :
 
 D'après le décodeur d'accessoires D18 d'Ulysse, cette version permet de gérer des servos directement depuis l'arduino.
@@ -51,3 +55,8 @@ L'EEPROM n'est mise à jour que lors d'un changement d'état de la sortie. Ceci 
 
 If you use and share this project, please mention Ulysse, the creator of this project.
 Si vous utilisez et partagez ce projet, merci de mentionner le créateur initial : Ulysse.
+
+Note : j'ai ajouté un fichier zip Eagle pour le PCB du D18 (pour un arduino NANO).
+
+
+Thierry.
