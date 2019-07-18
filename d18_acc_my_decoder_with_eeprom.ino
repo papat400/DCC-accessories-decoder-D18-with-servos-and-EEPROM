@@ -296,8 +296,10 @@ void user_outTwin_0_1(byte out_0, byte out_1); // gestion d'un couple de sorties
 
 #define USER_USE_SERVOS_ON_BOARD  1   // 1 to use servos directly on Arduino pins
 
-/* Définir ici le nombre de servos utilisés avec ce décodeur.
-   Attention : nbre. maximum = 12 ! (The Servo library supports up to 12 motors on most Arduino boards)*/
+/* Define below the number of used servos.
+    
+   Définir ici le nombre de servos utilisés avec ce décodeur.
+     Attention : nbre. maximum = 12 ! (The Servo library supports up to 12 motors on most Arduino boards)*/
 const int NOMBRE_SERVOS = 12;
 
 const boolean FWD = 0; // valeur pour "aiguillage position non devie"
@@ -306,11 +308,11 @@ unsigned long previousMillis; // pour le calcul d'intervalle
 unsigned long delai = 50; // intervalle en ms entre deux mouvements de servo
 unsigned long intervalMillis; // intervalle actuelle
 
-/*  Array for output pins, in the specific order used by the D18 decoder.
-    Initialised for 12 servos and 4 binary outputs.
+/*  Array for output pins, in the specific order used by the PCB that I designed.
+    This exemple is initialised for 12 servos and 4 binary outputs.
 
-    Tableau des pins de sortie, dans l'ordre utilisé par le décodeur D18.
-    Par défaut, initialisé pour 12 servos et 4 sorties TOR.
+    Tableau des pins de sortie, dans l'ordre utilisé par le PCB que j'ai conçu.
+    Le code initialise 12 servos et 4 sorties TOR (pour exemple).
 */
 int pinOut[16] = {12, 11, 10, 9, 8, 7, 6, 5, 4, 3, A0, A1, A2, A3, A4, A5};
 
