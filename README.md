@@ -29,6 +29,8 @@ If you use and share this project, please mention Ulysse, the creator of this pr
 
 Note : I add an Eagle zip file for the D18 PCB design (made for an arduino NANO).
 
+2021 03 28 : Added file Connection diagram.pdf, shows how to connect this S88 to the track and other switches.
+
 
 FRANCAIS :
 --------
@@ -60,6 +62,8 @@ If you use and share this project, please mention Ulysse, the creator of this pr
 Si vous utilisez et partagez ce projet, merci de mentionner le créateur initial : Ulysse.
 
 Note : j'ai ajouté un fichier zip Eagle pour le PCB du D18 (pour un arduino NANO).
+
+28 mars 2021 : ajout d'un fichier Connection Diagram.pdf montrant comment connecter le détecteur S88 à la voie et aux autres accessoires.
 
 
 Thierry.
