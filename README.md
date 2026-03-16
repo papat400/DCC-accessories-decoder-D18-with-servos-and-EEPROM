@@ -23,9 +23,6 @@ If you use and share this project, please mention Ulysse, the creator of this pr
 
 Note : I add an Eagle zip file for the D18 PCB design (made for an arduino NANO).
 
-**EDIT** (2026-03-16) : added a version in which the input terminal blocks have been replaced by DuPont connectors.
-
-
 
 FRANCAIS :
 --------
@@ -51,9 +48,6 @@ If you use and share this project, please mention Ulysse, the creator of this pr
 Si vous utilisez et partagez ce projet, merci de mentionner le créateur initial : Ulysse.
 
 Note : j'ai ajouté un fichier zip Eagle pour le PCB du D18 (pour un arduino NANO).
-
-**EDIT** (2026-03-16) : ajouté une version sur laquelle les borniers des entrées sont remplacés par des connecteurs DuPont.
-
 
 
 Thierry.
