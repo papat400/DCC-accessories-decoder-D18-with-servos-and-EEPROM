@@ -25,7 +25,7 @@ Note : I add an Eagle zip file for the D18 PCB design (made for an arduino NANO)
 
 ### Improvements:
 2025-03-02: added an output to activate the servo power relay. The sketch only activates this relay when movement is commanded, thus reducing noise.\
-2026-03-29: added a feature to allow individual speed control of each servo.
+2026-03-29: added a feature to allow individual speed control of each servo (V3).
 
 
 FRANCAIS :
@@ -54,7 +54,7 @@ Note : j'ai ajouté un fichier zip Eagle pour le PCB du D18 (pour un arduino NAN
 
 ### Améliorations :
 2025-03-02 : utilisation d'une sortie pour activer relais d'alimentation des servos. Le sketch ne commande ce relai que lorsqu'un mouvement est ordonné, cela évite beaucoup de bruit.\
-2026-03-29 : ajout d'une fonctionnalité pour pouvoir réguler individuellement la vitesse de chaque servo.
+2026-03-29 : ajout d'une fonctionnalité pour pouvoir réguler individuellement la vitesse de chaque servo (V3).
 
 
 Thierry.
