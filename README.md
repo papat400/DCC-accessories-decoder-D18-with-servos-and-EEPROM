@@ -23,6 +23,11 @@ If you use and share this project, please mention Ulysse, the creator of this pr
 
 Note : I add an Eagle zip file for the D18 PCB design (made for an arduino NANO).
 
+Improvements:
+-------------
+2025-03-02: added an output to activate the servo power relay. The sketch only activates this relay when movement is commanded, thus reducing noise.
+2026-03-29: added a feature to allow individual speed control of each servo.
+
 
 FRANCAIS :
 --------
@@ -44,10 +49,14 @@ Mes adaptations sont :
 2) Effectuer un backup des position "en cours" des servos et des sorties binaires dans l'EEPROM de l'arduino. Ceci permet de récupérer les positions après coupure et réalimentation de l'arduino.
 L'EEPROM n'est mise à jour que lors d'un changement d'état de la sortie. Ceci permet au moins 100000 commutations par sortie, ce qui est amplement suffisant !
 
-If you use and share this project, please mention Ulysse, the creator of this project.
 Si vous utilisez et partagez ce projet, merci de mentionner le créateur initial : Ulysse.
 
 Note : j'ai ajouté un fichier zip Eagle pour le PCB du D18 (pour un arduino NANO).
+
+Améliorations :
+---------------
+2025-03-02 : utilisation d'une sortie pour activer relais d'alimentation des servos. Le sketch ne commande ce relai que lorsqu'un mouvement est ordonné, cela évite beaucoup de bruit.
+2026-03-29 : ajout d'une fonctionnalité pour pouvoir réguler individuellement la vitesse de chaque servo.
 
 
 Thierry.
